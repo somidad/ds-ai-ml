@@ -5,8 +5,12 @@
 
 - Multi-layer perceptron
 	- [Activation function](./Activation%20function.md)
-	- Gradient descent
 	- Backpropagation
+	- Gradient descent
+- Learning efficiency
+	- Batch gradient descent (using all samples)
+	- Stochastic gradient descent (using one samples)
+	- Mini-batch gradient descent (compromise)
 
 #### Questions
 
