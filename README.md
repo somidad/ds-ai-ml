@@ -12,6 +12,8 @@
 	- Stochastic gradient descent (using one samples)
 	- Mini-batch gradient descent (compromise)
 
+[Neural network courses](./Neural%20network%20courses.md)
+
 #### Questions
 
 - [ ] How does cost function get modeled/estimated?
