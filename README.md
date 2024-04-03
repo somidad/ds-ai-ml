@@ -3,9 +3,10 @@
 
 ### Neural network
 
-- [Activation function](./Activation%20function.md)
-- Gradient descent
-- Backpropagation
+- Multi-layer perceptron
+	- [Activation function](./Activation%20function.md)
+	- Gradient descent
+	- Backpropagation
 
 ## Questions
 
