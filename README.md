@@ -8,8 +8,9 @@
 	- Gradient descent
 	- Backpropagation
 
-## Questions
+#### Questions
 
+- [ ] How does cost function get modeled/estimated?
 - [ ] How does the number of hidden layers and neurons get determined?
 
 ---
